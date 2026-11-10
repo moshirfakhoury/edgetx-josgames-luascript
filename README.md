@@ -184,4 +184,9 @@ Jos Jaws features a Top 5 high-score table, where players can enter their name i
 
 <img width="480" height="273" alt="image" src="https://github.com/user-attachments/assets/5571e31a-bcd3-44bd-8335-89020c98f3a9" />
 
+**Installation:**
 
+- Download the Jos Games Trilogy ZIP file
+- Extract the contents of the ZIP file
+- Find the folder named Jos Games and Jos Games.lua file
+- Copy both and paste into your transmitter's /SCRIPTS/TOOLS folder
