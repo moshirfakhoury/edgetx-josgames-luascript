@@ -1,4 +1,3 @@
-**PROJECT NOT COMPLETE - PLEASE BE PATIENT IT WILL BE READY SOON**
 
 <img width="474" height="259" alt="image" src="https://github.com/user-attachments/assets/b1b3869b-dbb5-4ac5-b5fe-27473a7f1926" />
 
