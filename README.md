@@ -1,5 +1,7 @@
 **PROJECT NOT COMPLETE - PLEASE BE PATIENT IT WILL BE READY SOON**
 
+<img width="474" height="259" alt="image" src="https://github.com/user-attachments/assets/b1b3869b-dbb5-4ac5-b5fe-27473a7f1926" />
+
 **Introduction to Jos Games**
 
 Welcome to Jos Games, a collection of three original arcade-style games developed in Lua for the Radiomaster TX16S MK2 running EdgeTX.
@@ -13,6 +15,7 @@ Originally created as a fun project for Josiah (My Son), the collection has grow
 
 Each game has been designed specifically for the TX16S MK2 screen (480x272px), making use of custom graphics, sound effects and Lua scripting.
 
+<img width="481" height="270" alt="image" src="https://github.com/user-attachments/assets/05a6e12f-4234-4374-a45e-96ff9b38816a" />
 
 
 **Jurassic Jos**
@@ -62,6 +65,17 @@ Jos is on a dinosaur adventure! Collect golden eggs, avoid dangerous dinosaurs, 
 - CH2: Moves Jos forwards and backwards.
 - SH switch: Fires bullets at the T-Rex.
 - Return Eggs: Jos must be close to the left side of the nest to return a golden egg without being eaten by the T-Rex
+
+<img width="478" height="271" alt="image" src="https://github.com/user-attachments/assets/bc42c935-16d8-4591-abde-d043e94c9e7e" />
+
+<img width="477" height="271" alt="image" src="https://github.com/user-attachments/assets/af6f1fb4-352a-4c8b-828a-711e594ed436" />
+
+<img width="478" height="269" alt="image" src="https://github.com/user-attachments/assets/3ad7804b-740a-4536-919c-5668e1de2752" />
+
+<img width="481" height="269" alt="image" src="https://github.com/user-attachments/assets/022c3cc8-9945-43ae-b9de-bb5ce2df4e7d" />
+
+<img width="479" height="268" alt="image" src="https://github.com/user-attachments/assets/579b6f57-b6fd-4b3b-b201-eb667ec43eef" />
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -113,6 +127,13 @@ Jos becomes a ghost hunter, armed with a laser weapon and a special Nova weapon.
 - CH1: Fires the Nova weapon when Jos is facing right.
 - Special Ammo: You have 65 Nova shots available.
 
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/a28a742d-c54f-41e5-b325-9709f264d879" />
+
+<img width="483" height="272" alt="image" src="https://github.com/user-attachments/assets/b09d50d3-56c8-4d0d-b298-70919a62d61c" />
+
+<img width="481" height="273" alt="image" src="https://github.com/user-attachments/assets/215d18bb-4637-4999-be64-a7066a12df1a" />
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Jos Jaws**
 
@@ -157,3 +178,11 @@ Jos Jaws features a Top 5 high-score table, where players can enter their name i
 - Scuba: Collect the scuba equipment to refill your air supply.
 - Treasure: Swim into a treasure chest to collect it.
 - Sharks: Avoid the sharks. Colliding with one ends the game.
+
+<img width="479" height="270" alt="image" src="https://github.com/user-attachments/assets/6d560367-21c0-44fc-ba57-169aa942fb6c" />
+
+<img width="483" height="267" alt="image" src="https://github.com/user-attachments/assets/8da7c723-5c85-4b5f-889d-ccb62963c033" /> 
+
+<img width="480" height="273" alt="image" src="https://github.com/user-attachments/assets/5571e31a-bcd3-44bd-8335-89020c98f3a9" />
+
+
