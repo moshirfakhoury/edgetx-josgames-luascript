@@ -1,3 +1,5 @@
+**PROJECT NOT COMPLETE - PLEASE BE PATIENT IT WILL BE READY SOON**
+
 **Introduction to Jos Games**
 
 Welcome to Jos Games, a collection of three original arcade-style games developed in Lua for the Radiomaster TX16S MK2 running EdgeTX.
